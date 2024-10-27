@@ -1,0 +1,14 @@
+.app-container{
+    display: flex;
+
+}
+
+.conten{
+   width: 100%;
+}
+.sidebar{
+    min-height: 700px;
+}
+.post_list{
+    margin: 20px 50px;
+}
